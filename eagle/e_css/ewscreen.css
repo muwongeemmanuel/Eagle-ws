@@ -1,0 +1,260 @@
+	button{
+		width: 95px;
+		height: 20px;
+		background-color:  lightgreen;
+		font-size: 15px;
+		border-radius: 5px
+	}
+	button:hover, button:focus {
+		background-color:green;
+	}
+	form{
+		color:white;
+		text-align:center;
+		padding:px;
+		padding-bottom: 20px;
+	}
+	input{
+		height: 30px;
+		width: 300px;
+	}
+	textarea{
+		width: 300px;
+	}
+	.submit{
+		width: 80px;
+		height: 30px;
+		font-size: 15px;
+		background-color: green;
+		color: indigo;
+		border-radius: 5px;
+		margin-top:20px;
+
+	}
+	.left-h{
+		float:left;
+	}
+	.cent-h{
+		float:center;
+	}
+	.right-h{
+		float:right;
+		margin-top: 0px;
+		margin-left:0 auto;
+		margin-right:200px;
+	}
+	div{
+		border-radius:20px;
+	}
+	
+	h2{
+		border-radius:px;
+	}
+	
+	.dropdown{
+		display:none;
+	}
+	.dropdown-content{
+		display:none;
+	}
+	.hd{
+		max-width:920px;
+		padding:px;
+		margin:0 auto;
+		border-radius:20px;
+		margin-top:px;
+		margin-bottom:px;
+		margin-left:0 auto;
+		margin-right:0 auto;
+		
+	}
+	
+	.leftST{
+		float:left;
+		width:500px;
+		
+	}
+	.budge{
+			float:right;
+			
+	}
+	
+	.d{
+		max-width:895px;
+		padding:20px;
+		margin:0 auto;
+		background-color:skyblue;
+		border-radius:20px;
+		margin-top:20px;
+		margin-bottom:20px;
+		margin-left:0 auto;
+		margin-right:0 auto;
+		
+	}
+	.all{
+		max-width:895px;
+		text-align:;
+		padding:20px;
+		margin:0 auto;
+		background-color:gray;
+		
+	}
+	.all2{
+		max-width:895px;
+		text-align:;
+		padding:20px;
+		margin:0 auto;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+		margin-bottom: 0 auto;
+		margin-top: 20px;
+		background-color:gray;
+		
+	}
+	.login{
+		text-align:center;
+	}
+	#wrap{
+		max-width:900px;
+		text-align:;
+		padding:5px;
+		margin:0 auto;
+		margin-right: 0 auto;
+		margin-left: 0 auto;
+		margin-bottom: 0 auto;
+		margin-top: 0px;
+		border-radius:;
+		
+	}
+	.welcome{
+			float:left;
+			max-height:;
+			width:425px;
+			height:400px;
+			border-radius:20px;
+			margin-top:40px;
+			margin-bottom:20px;
+			margin-left:0 auto;
+			margin-right:0 auto;
+	}
+	
+	.slides{
+			-ms-transform: rotate(0deg);
+			-webkit-transform: rotate(0deg); 
+			transform: rotate(0deg);
+			height:360px;
+			width:425px;
+			/*slideimage*/
+			display:none;
+
+	}
+	
+	.mission{
+			float:left;
+			width:285px;
+			border-radius:20px;
+			margin:0 auto;
+			height:325px;
+	}
+	.calender{
+			float:right;
+			width:285px;
+			border-radius:20px;
+			margin:0 auto;
+			height:325px;
+	}
+	.notice{
+			float:right;
+			width:305px;
+			border-radius:20px;
+			margin-top:;
+			margin-bottom:5px;
+			margin-left: auto;
+			margin-right:10px;
+	}
+	.corner{
+			float:;
+			width:100%;
+			border-radius:20px;
+			margin:0 auto;
+	}
+
+	
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+	border-radius:20px;
+	}
+	li {
+    float: left;
+	width:;
+	margin:;
+	
+}
+	
+li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #54879d;
+}
+
+
+
+	.f{
+		max-width:895px;
+		padding:20px;
+		margin:0 auto;
+		background-color:;
+		border-radius:20px;
+		margin-top:20px;
+		margin-bottom:20px;
+		margin-left:0 auto;
+		margin-right:0 auto;
+		
+	}
+	.left-f{
+		float:left;
+		width:400px;
+		}
+		.right-f{
+			float:right;
+			width:400px;
+		}
+		.cent-f{
+			float:;
+			
+		}
+	
+	@media screen and (min-width:501px ){
+		li{
+			
+			
+		}
+	}
+	@media screen and (min-width:720px ){
+	
+		li{
+			
+			
+		}
+		
+	
+	}
+	
+	@media screen and (min-width:960px){
+	
+
+	
+	}
+	
+
+	
+	
